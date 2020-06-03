@@ -2,9 +2,7 @@ package com.app.InterviewQuestions;
 
 public class SortString {
 
-    static String[] str = {"Kamila", "Tatiana", "Arsen", "Evelina", "Alina"};
-
-    static String flag = "words";
+    static String[] str = {"Java", "Tatiana", "Dog", "Evelina", "Alina", "Bob"};
 
     public static void main(String[] args) {
 
