@@ -16,7 +16,6 @@ public class PrimeNumberInRange {
                     flag = true;
                     break;
                 }
-
             }
 
             if (!flag) {
